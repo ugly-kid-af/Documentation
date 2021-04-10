@@ -21,7 +21,7 @@ Before you apply to add your device into our list of official devices, you shoul
 15. No chat ss/msgs or anything should be forwarded outside of Maintainers group.
 16. Incase you don't have SF access ask in group and tag us.
 17. It's your duty to maintain XDA , Device Support Group, Make user base , connect with users for build reviews (support) and maintain peace and be active.
-18.Do not leave this group without informing any admins, If U leave this group once Your device will dropped ASAP.
+18. Do not leave this group without informing any admins, If U leave this group once Your device will dropped ASAP.
 19. Jenkins will be provided only for Release build with no building error and if u want to build ur own u can
 20. Your device must be in accordance with the [Device Requirements](https://github.com/PixelPlusUI-Elle/Documentation/blob/main/device_requirements.md)
 

@@ -8,12 +8,13 @@ PixelPlusUI is a PE based ROM with some more friendly user experience. What diff
 
 ## NOTE: 
 
+```bash
 * Faceunlock and Pixelizer available only for OFFICIAL Builds
 * App Lock is also available but only for OFFICIAL Builds
 * This ROM comes only with Gapps Version
 * If you want some features you can make Pull Request After Successfully Testing
 * Contatct Us for Maintainership in Telegram for faster approch.
-
+```
 
 # Changelogs
  * [**All Version Changelog Here**](https://github.com/PixelPlusUI-Elle/Documentation/blob/main/CHANGELOG.md)
@@ -39,7 +40,7 @@ You must fulfill the following requirements before applying:
  * [**Kostya-Maslennikov**](https://t.me/kostyajrz)
  * [**Saurav**](https://t.me/ugly_kid_af)
 
-### Follow  us for more
+### Follow  us for more Updates
  * [**Telegram Group**](https://t.me/ppuichat)
  * [**Telegram Channel**](https://t.me/ppuich)
  * [**Telegram Announcements**](https://t.me/ppuinews)

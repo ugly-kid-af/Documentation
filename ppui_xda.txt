@@ -28,6 +28,8 @@
 
 [SIZE=5][B]- [URL='https://forum.xda-developers.com/m/kostyajrz.10385453/']Kostya Maslennikov[/URL] - Founder & Lead Developer
 - [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Developer & Support Team [/B]
+- [URL='https://forum.xda-developers.com/m/smokey18.10420255/']Smokey[/URL]  - Developer & Support Team [/B]
+- [URL='https://forum.xda-developers.com/m/beingmishra.7426783/']Rahul Mishra[/URL]  - UI/UX Developer & Support Team [/B]
 - And Also Our Hardworking Maintainers[/SIZE]
 
 
@@ -44,8 +46,10 @@ Statusbar :
 Introduce dynamic VoLTE & VoWiFi icons 
 OOS Styled Network Traffic Activity Indicator
 Hiding Statusbar on lockscreen
+Show 4G Instead of LTE toggle
 
 Quick settings :
+Added Daily Data usage in left side of QS
 Useful new tiles like sync, Data Switch, AOD , etc
 Require unlocking QS tiles
 WIFI/NFC, Mobile Data, Bluetooth Panel instead of full Settings
@@ -61,6 +65,7 @@ Advance Restart
 Expanded volume panel
 Power Menu Customizations
 Disabled Annoying Emergency button in power menu
+Added Screen OFF Animation
 
 Navigation :
 Navigation bar layout invertion
@@ -79,9 +84,12 @@ Added Long Screenshot
 Double tap to sleep on statusbar and lockscreen
 Statusbar brightness control 
 
-Security :
+Security & Safety :
+Added System App Lock
 FaceUnlock on OFFCIAL
 Protect sensitive info on About device
+Added Smart Charging
+Added Smart Cut Off
 
 Settings :
 Introduce Android 12 Style Search bar
@@ -175,8 +183,9 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 - LineageOS
 - Fluid OS
 - Havoc-OS
-- ProtonAOSP
-- Potato Open Source Project
+- Paranoid Android
+- Octavi-OS
+- Wave-Project
 - Evolution-X[/SIZE][/B]
 [SIZE=4][B]- Others, I forgot to mention[/B][/SIZE]
 
@@ -188,7 +197,7 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [IMG]https://i.imgur.com/mzlfqhe.png[/IMG]
 
 [SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]11.0[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] March 2021[/B][/COLOR]
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] April 2021[/B][/COLOR]
 - [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][URL='https://forum.xda-developers.com/m/sourav24071999.9437589/'][B]Saurav[/B][/URL][/COLOR]  
 - [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] REDMI NOTE 7 PRO[/B][/COLOR] [/B]
 - [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] VIOLET[/B][/COLOR][B]  [/B] 
