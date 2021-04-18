@@ -27,8 +27,8 @@
 
 
 [SIZE=5][B]- [URL='https://forum.xda-developers.com/m/kostyajrz.10385453/']Kostya Maslennikov[/URL] - Founder & Lead Developer
-- [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Developer & Support Team [/B]
-- [URL='https://forum.xda-developers.com/m/smokey18.10420255/']Smokey[/URL]  - Developer & Support Team [/B]
+- [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Developer & Support Team
+- [URL='https://forum.xda-developers.com/m/smokey18.10420255/']Smokey[/URL]  - Developer & Support Team
 - [URL='https://forum.xda-developers.com/m/beingmishra.7426783/']Rahul Mishra[/URL]  - UI/UX Developer & Support Team [/B]
 - And Also Our Hardworking Maintainers[/SIZE]
 
@@ -217,7 +217,7 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [B][URL='https://t.me/ppuich'][SIZE=5]TELEGRAM CHANNEL[/SIZE][/URL]
 [URL='https://t.me/ppuichat'][SIZE=5]TELEGRAM GROUP[/SIZE][/URL][/B]
 
-[SIZE=6][COLOR=rgb(226, 80, 65)]------------------ DONATION LINKS ------------------ [/COLOR][/SIZE]
+[SIZE=6][COLOR=rgb(226, 80, 65)]---------- DONATION LINKS ---------- [/COLOR][/SIZE]
 
 [B][SIZE=4]AS WE KNOW THAT THE BUILD IS FREE OF COST FOR YOU GUYS BUT BUILDING ROMs NEED SERVER SO WE HAVE TO PAY FOR IT EVERY MONTH AND ITS A BIG AMOUNT SO AS A STUDENT ITS DIFFICULT TO MANAGE IT. IT WOULD BE HELPFULL AND REALLY APPRECIATED IF YOU SUPPORT US[/SIZE][/B]
 

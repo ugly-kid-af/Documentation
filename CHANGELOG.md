@@ -5,6 +5,43 @@
 
 ## Changelog
 
+### v3.4 (11.04.2021)
+* Latest April Patch Merged r34
+* Brand New OTA Updater added
+* Added Incall vibration options
+* Wire up default fonts with font engine
+* QS: Show date below QSclock
+* CarrierConfigManager: enable LTE+ icon by default
+* Merged FOD Changes from latest PE Source
+* Ask pin for shutdown/reboot on secure lockscreen
+* Added Smart Charging
+* Allow using 4G icon instead LTE
+* SystemUI: Add activity indicators to wifi icon
+* SystemUI: Implement OOS-style small data type icons
+* QS: Decrease date size a little in small QS
+* Port long screenshot implementation from Asus
+* Added MNML, Orono, Shapeshift clock
+* Added Custom Spectrum Analog Clock
+* Added Custom Sneeky Analog Clock
+* wall: New Wall for New Version 3.4
+* ThemePicker: Remove unwanted space under clock faces container
+* Added Screen off animations
+* QS: fix height and size of clock
+* Added Smart Cutoff
+* Add option to scramble pin layout when unlocking
+* Allow disabling vibration alerts for successful auth
+* iorap: Enable by default
+* InputMethodService: Disable fullscreen keyboard
+* Gestures: allow to set back swipe deadzone
+* SystemUI: forward port Status bar icon tuner
+* Dividers: Say No to Dividers
+* Added a toggle for QS Tint optional
+* Added App-Locker settings icon
+* Added Missing Icons in Settings Page and About Section
+* Added Search bar like A12 + Added Headers Like Fluid
+* Increased Stability and overall performance
+* Misc Changes and Fixes
+
 ### v3.3 (22.03.2021)
 - Merged Latest March Security Patch (r32)
 - Added App Lock from PA
