@@ -37,8 +37,7 @@
 [IMG]https://i.imgur.com/xTx1CqW.png[/IMG]
 
 
-[B]NOTE: As of now PixelPlusUI A11 [ R ] is still in beta so features mentioned below may or may not be present when you are flashing the build. 
-But when it will get stable u will get every features mentioned below. KEEP PATIENCE !![/B]
+[B]NOTE: You can check screenshots for better perspective from our OFFICIAL WEBSite Link mention below in the thread !![/B]
 
 
 [code]
@@ -151,17 +150,8 @@ If you believe you know what you're doing - then fine, go ahead, but please don'
 
 [B] [B][SIZE=5][COLOR=rgb(209, 72, 65)]What works?[/COLOR][/SIZE] [/B][/B]
 
-Wifi
-RIL
-Mobile data
-GPS
-Camera
-Flashlight
-Camcorder
-Bluetooth
-Fingerprint reader
-Lights
-Sound / vibration
+Wifi | RIL | Mobile data | GPS | Camera
+Flashlight | Camcorder | Bluetooth | Fingerprint reader | Lights | Sound | vibration
 Almost everything
 
 [B][SIZE=5][COLOR=rgb(209, 72, 65)][B]What doesn't work?[/B][/COLOR][/SIZE][/B]
@@ -181,12 +171,13 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [SIZE=4][B]- Android Open-Source Project[/B][/SIZE]
 [B][SIZE=4]- Pixel Experience
 - LineageOS
-- Fluid OS
 - Havoc-OS
-- Paranoid Android
+- AOSPA
 - Octavi-OS
 - Wave-Project
-- Evolution-X[/SIZE][/B]
+- ShapeShiftOS
+- Project-404
+[/SIZE][/B]
 [SIZE=4][B]- Others, I forgot to mention[/B][/SIZE]
 
 [B][SIZE=4]PixelPlusUI XDA Logo and Banners[/SIZE][/B]
@@ -197,7 +188,7 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [IMG]https://i.imgur.com/mzlfqhe.png[/IMG]
 
 [SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]11.0[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] April 2021[/B][/COLOR]
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] May 2021[/B][/COLOR]
 - [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][URL='https://forum.xda-developers.com/m/sourav24071999.9437589/'][B]Saurav[/B][/URL][/COLOR]  
 - [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] REDMI NOTE 7 PRO[/B][/COLOR] [/B]
 - [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] VIOLET[/B][/COLOR][B]  [/B] 
@@ -219,7 +210,7 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 
 [SIZE=6][COLOR=rgb(226, 80, 65)]---------- DONATION LINKS ---------- [/COLOR][/SIZE]
 
-[B][SIZE=4]AS WE KNOW THAT THE BUILD IS FREE OF COST FOR YOU GUYS BUT BUILDING ROMs NEED SERVER SO WE HAVE TO PAY FOR IT EVERY MONTH AND ITS A BIG AMOUNT SO AS A STUDENT ITS DIFFICULT TO MANAGE IT. IT WOULD BE HELPFULL AND REALLY APPRECIATED IF YOU SUPPORT US[/SIZE][/B]
+[B][SIZE=4]As you know build is free but building ROM needs server. And Maintaining source and device stuff needs server and its pretty expensive for a student. It will be really helpful and appreciated if you donate or contribute us. [/SIZE][/B]
 
 [SIZE=4][B]PAYTM UPI ID[/B][/SIZE][B][SIZE=4] : dwarmachine24@paytm
 GPAY UPI ID: dwarmachine24@oksbi[/SIZE][/B]
